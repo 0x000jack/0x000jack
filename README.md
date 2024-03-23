@@ -12,3 +12,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Lay win web3.
+
+
+---
+
+### register plan
+
+Binance： https://www.suitechsui.io/cn/activity/referral-entry/CPA?ref=CPA_00HQJAZK8Y
+
+OKX： https://ouxyi.space/join/2903395
+
+Bitget： https://www.bitget.fit/zh-CN/referral/register?clacCode=22NFR0BH
