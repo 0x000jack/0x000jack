@@ -18,7 +18,7 @@ Lay win web3.
 
 ### register plan
 
-**官网注册选择**
+**中心化交易所注册选择**
 
 Binance： https://www.suitechsui.io/cn/activity/referral-entry/CPA?ref=CPA_00HQJAZK8Y
 
