@@ -27,10 +27,24 @@ OKX： https://ouxyi.space/join/2903395
 Bitget： https://www.bitget.fit/zh-CN/referral/register?clacCode=22NFR0BH
 
 
-## mining
+## mining tools  
 
 **挖矿工具**
 
-[https://github.com/0x000jack/mining](https://github.com/0x000jack/mining)
+汇总： [https://github.com/0x000jack/mining](https://github.com/0x000jack/mining)
+
+
+
+## New Token 
+
+**打新**
+
+
+
+## transaction tools  
+
+**交易工具**
+
+
 
 
