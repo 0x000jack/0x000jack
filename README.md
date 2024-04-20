@@ -16,9 +16,7 @@ Lay win web3.
 
 ---
 
-## register plan
-
-**中心化交易所注册选择**
+## register plan  中心化交易所注册选择
 
 Binance： https://www.suitechsui.io/cn/activity/referral-entry/CPA?ref=CPA_00HQJAZK8Y
 
@@ -27,23 +25,24 @@ OKX： https://ouxyi.space/join/2903395
 Bitget： https://www.bitget.fit/zh-CN/referral/register?clacCode=22NFR0BH
 
 
-## mining tools  
-
-**挖矿工具**
+## mining tools  挖矿工具
 
 汇总： [https://github.com/0x000jack/mining](https://github.com/0x000jack/mining)
 
 
 
-## New Token 
-
-**打新**
+## New Token 打新
 
 
 
-## transaction tools  
+## transaction tools  交易工具  
 
-**交易工具**
+
+
+## 数据工具
+
+
+
 
 
 
