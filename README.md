@@ -20,18 +20,18 @@ Lay win web3.
 
 ---
 
-## register plan  中心化交易所注册选择
+## register plan  中心化交易所注册返佣邀请码
 
-Binance： https://www.suitechsui.io/cn/activity/referral-entry/CPA?ref=CPA_00HQJAZK8Y
+[Binance](https://www.suitechsui.io/cn/activity/referral-entry/CPA?ref=CPA_00HQJAZK8Y)
 
-OKX： https://ouxyi.space/join/2903395
+[OKX](https://ouxyi.space/join/2903395)
 
-Bitget： https://www.bitget.fit/zh-CN/referral/register?clacCode=22NFR0BH
+[Bitget](https://www.bitget.fit/zh-CN/referral/register?clacCode=22NFR0BH)
 
 
 ## mining tools  挖矿工具
 
-汇总： [https://github.com/0x000jack/mining](https://github.com/0x000jack/mining)
+[汇总](https://github.com/0x000jack/mining)
 
 
 
